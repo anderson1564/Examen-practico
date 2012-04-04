@@ -21,7 +21,7 @@ http://ss64.com/nt/wmic.html - windows
 http://linux.die.net/man/8/lspci - linux
 http://linux.die.net/man/8/lsusb - linux
 http://linux.die.net/man/8/lsdev - linux
-
+http://linux.die.net/man/1/lshw - linux
 ====================================================================================
 Comandos
 	Linux
