@@ -28,3 +28,6 @@ Comandos
 		lspci - todo el hardware pci
 		lsusb - todos los dispositivos usb
 		dmesg - puede decir lo que el kernel ha encontrado de dispositivos
+
+
+http://www.networkcomputing.com/unixworld/tutorial/010/010.txt.html
