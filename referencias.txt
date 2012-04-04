@@ -1,0 +1,30 @@
+Links
+====================================================================================
+-------Para detectar los OS------
+
+http://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor
+
+http://stackoverflow.com/questions/430424/how-can-i-detect-the-operating-system-in-c-c
+    
+http://stackoverflow.com/questions/2166483/which-macro-to-wrap-mac-os-x-specific-code-in-c-c
+
+http://stackoverflow.com/questions/478898/how-to-execute-a-command-and-get-output-of-command-within-c
+
+http://stackoverflow.com/questions/327718/how-to-list-physical-disks
+
+
+
+
+====================================================================================
+-----PARA SACAR COMANDOS
+http://ss64.com/nt/wmic.html - windows
+http://linux.die.net/man/8/lspci - linux
+http://linux.die.net/man/8/lsusb - linux
+http://linux.die.net/man/8/lsdev - linux
+
+====================================================================================
+Comandos
+	Linux
+		lspci - todo el hardware pci
+		lsusb - todos los dispositivos usb
+		dmesg - puede decir lo que el kernel ha encontrado de dispositivos
