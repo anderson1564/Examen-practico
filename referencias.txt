@@ -19,6 +19,8 @@ http://tldp.org/LDP/tlk/dd/pci.html  --- Explicacion de PCI del kernel de linux
 http://www.freesoftwaremagazine.com/articles/drivers_linux - como hacer drivers para linux
 
 http://www.xml.com/ldd/chapter/book/ch13.html - mmap y DMA
+
+
 ====================================================================================
 -----PARA SACAR COMANDOS
 http://ss64.com/nt/wmic.html - windows
